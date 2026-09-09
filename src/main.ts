@@ -2,6 +2,10 @@ import './style.css'
 import './TemasTS/01-tiposbas'
 import './TemasTS/02-obj-interfaz-arre'
 import './TemasTS/03-funciones'
+import './TemasTS/04-destructuracion-obj-arre'
+import './TemasTS/05-destructuracion-funciones'
+import './TemasTS/06-import-export'
+
 
 import heroImg from './assets/hero.png'
 import typescriptLogo from './assets/typescript.svg'
