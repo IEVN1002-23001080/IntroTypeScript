@@ -5,6 +5,7 @@ import './TemasTS/03-funciones'
 import './TemasTS/04-destructuracion-obj-arre'
 import './TemasTS/05-destructuracion-funciones'
 import './TemasTS/06-import-export'
+import './TemasTS/07-clases'
 
 
 import heroImg from './assets/hero.png'

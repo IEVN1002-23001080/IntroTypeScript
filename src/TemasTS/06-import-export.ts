@@ -16,3 +16,4 @@ const carrito:Producto[]=[
 ]
 const [total,isv]=calcularISV2(carrito);
 console.log("Total carrito: ",total);
+console.log("ISV carrito: ",isv);
